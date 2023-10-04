@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            // Represents the Legendar "Hello World" code every developer must take.
             Console.WriteLine("Hello World!");
         }
     }
